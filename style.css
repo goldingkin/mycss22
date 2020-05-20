@@ -1,0 +1,66 @@
+body {
+    line-height: 1.7;
+    color: rebeccapurple;
+    font-weight: 400;
+    font-size: 10pt;
+}
+
+h1,h2,h3,h4,h5, 
+.h1.h2.h3.h4.h5 {
+    color:#345673;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    margin-top: 0;
+    margin-bottom: 0.2rem
+}
+
+.menu {
+    border-bottom:1px solid green;
+}
+
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 0;
+    padding-inline-start: 0px;
+}
+
+.name {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: ;
+    font-size: 100px;
+    color:indigo;
+}
+
+.text {
+    padding:5px;
+    border:3px cadetblue;
+    border-style:dotted;
+    background-color: darkcyan;
+}
+.text2 {
+    border:3px darkcyan;
+    padding:5px
+}
+
+.img-fluid{
+    width: 400px;
+    height:auto;
+}
+
+.paint{
+    background-color: darkcyan;
+    font-style: italic;
+    text-align: center;
+}
+
+.caption{
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2em;
+    font-size: 12px;
+    padding:7px 10px;
+    color:orange;
+    display:inline-block;
+}
